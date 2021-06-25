@@ -5,6 +5,11 @@ See on link if hosting is worked
 Or screenshots here
 <br><br>
 <br>
+
+
+![main page with map](https://github.com/Khoroshavin/image_map_editing_system/raw/main/screenshots/screenshots)
+
+
 ![main page with map](http://khoroshavin-bp.epizy.com/bp_img/1.PNG)
 ![modal with info about point](http://khoroshavin-bp.epizy.com/bp_img/2.PNG)
 ![login form](http://khoroshavin-bp.epizy.com/bp_img/3.PNG)
