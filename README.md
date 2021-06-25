@@ -13,3 +13,12 @@ Or screenshots here
 ![main admin page](screenshots/6.PNG)
 ![info admin page](screenshots/7.PNG)
 ![additing form for new user in modal](screenshots/8.PNG)
+
+# TO CHANGE!
+
+In file config.php
+- change DB_PASS, DB_LOGIN, DB_NAME
+
+In folder admin in file admin_grafs.php
+- change DB_NAME on line 17,57,58
+
